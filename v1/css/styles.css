@@ -15,6 +15,23 @@ body,html{
     max-width: 775px!important;
 }
 
+/*Annouce*/
+.announce-wrapper.release {
+    background-color: #d749af;
+    background-image: linear-gradient(90deg,#566cec,#d749af 25%,#ff7c51 75%,#f2b14d);
+    color: #fff;
+    font-size: 16px;
+    padding: 12px;
+    text-align: center;
+}
+.announce-wrapper h2 {
+   font-size: 16px;
+}
+.announce-wrapper a {
+    color: #fff;
+    font-weight:600;
+}
+
 /*Navbar*/
 .nav-v{
     border-radius: 0!important;
